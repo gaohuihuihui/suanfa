@@ -1,0 +1,1521 @@
+[
+    {
+        "type": "PRODUCT_TOPIC_TOYS",
+        "items": [
+            {
+                "title": "KC体验",
+                "entryThumbnail": "https://dev-cdn-common.codemao.cn/dev/257/1632396006899_蒙版-1.png",
+                "classNum": 0,
+                "packageId": 3415,
+                "originalPrice": 1.00,
+                "price": 0.01,
+                "singleCoursesPrice": "0.01 元/节",
+                "giftFlag": "0",
+                "learnWay": "班主任辅导",
+                "skuNumber": "219817140001",
+                "spuNumber": "G219817140",
+                "categoryNumber": "50",
+                "courseForm": "KCTYK",
+                "grader": [
+                    "KINDERGARTEN_2",
+                    "PRIMARY_SCHOOL_2"
+                ],
+                "jumpUrl": "codemao://grow/browser?forcelogin=true&url=https%3A%2F%2Ftest-grow.codemao.cn%2Fcourse-detail%3Fshowclose%3Dtrue%26skuNumber%3D219817140001",
+                "centerLabel": [
+                    "0节",
+                    "班主任辅导"
+                ],
+                "footerLabel": [
+                    "0.01 元/节"
+                ]
+            },
+            {
+                "title": "编程猫机器人课测试1",
+                "entryThumbnail": "",
+                "classNum": 1,
+                "packageId": 3434,
+                "originalPrice": 0.01,
+                "price": 0.01,
+                "singleCoursesPrice": "0.01 元/节",
+                "giftFlag": "0",
+                "learnWay": "班主任辅导",
+                "skuNumber": "210743140001",
+                "spuNumber": "G210743140",
+                "categoryNumber": "46",
+                "courseForm": "JQRTYK",
+                "grader": [
+                    "PRIMARY_SCHOOL_2"
+                ],
+                "jumpUrl": "codemao://grow/browser?forcelogin=true&url=https%3A%2F%2Ftest-grow.codemao.cn%2Fcourse-detail%3Fshowclose%3Dtrue%26skuNumber%3D210743140001",
+                "centerLabel": [
+                    "1节",
+                    "班主任辅导"
+                ],
+                "footerLabel": [
+                    "0.01 元/节"
+                ]
+            },
+            {
+                "title": "画报期刊1年期",
+                "entryThumbnail": "https://dev-cdn-common.codemao.cn/dev/257/1632897781680_1632404563434_产品缩略图.png",
+                "classNum": 5,
+                "packageId": 3449,
+                "originalPrice": 0.01,
+                "price": 0.01,
+                "singleCoursesPrice": "0.00 元/节",
+                "giftFlag": "0",
+                "learnWay": "班主任辅导",
+                "skuNumber": "215957140001",
+                "spuNumber": "G215957140",
+                "categoryNumber": "46",
+                "courseForm": "JQRTYK",
+                "grader": [
+                    "PRIMARY_SCHOOL_2"
+                ],
+                "jumpUrl": "codemao://grow/browser?forcelogin=true&url=https%3A%2F%2Ftest-grow.codemao.cn%2Fcourse-detail%3Fshowclose%3Dtrue%26skuNumber%3D215957140001",
+                "centerLabel": [
+                    "5节",
+                    "班主任辅导"
+                ],
+                "footerLabel": [
+                    "0.00 元/节"
+                ]
+            },
+            {
+                "title": "KC正式",
+                "entryThumbnail": "https://dev-cdn-common.codemao.cn/dev/257/1632396054232_蒙版-2.png",
+                "classNum": 5,
+                "packageId": 3416,
+                "originalPrice": 0.10,
+                "price": 0.10,
+                "singleCoursesPrice": "0.02 元/节",
+                "giftFlag": "0",
+                "learnWay": "班主任辅导",
+                "skuNumber": "210925140002",
+                "spuNumber": "G210925140",
+                "categoryNumber": "51",
+                "courseForm": "KCZSK",
+                "grader": [
+                    "PRIMARY_SCHOOL_3"
+                ],
+                "jumpUrl": "codemao://grow/browser?forcelogin=true&url=https%3A%2F%2Ftest-grow.codemao.cn%2Fcourse-detail%3Fshowclose%3Dtrue%26skuNumber%3D210925140002",
+                "centerLabel": [
+                    "5节",
+                    "班主任辅导"
+                ],
+                "footerLabel": [
+                    "0.02 元/节"
+                ]
+            },
+            {
+                "title": "KC正式",
+                "entryThumbnail": "https://dev-cdn-common.codemao.cn/dev/257/1632396054232_蒙版-2.png",
+                "classNum": 5,
+                "packageId": 3416,
+                "originalPrice": 0.10,
+                "price": 0.10,
+                "singleCoursesPrice": "0.02 元/节",
+                "giftFlag": "0",
+                "learnWay": "班主任辅导",
+                "skuNumber": "210925140001",
+                "spuNumber": "G210925140",
+                "categoryNumber": "51",
+                "courseForm": "KCZSK",
+                "grader": [
+                    "PRIMARY_SCHOOL_3"
+                ],
+                "jumpUrl": "codemao://grow/browser?forcelogin=true&url=https%3A%2F%2Ftest-grow.codemao.cn%2Fcourse-detail%3Fshowclose%3Dtrue%26skuNumber%3D210925140001",
+                "centerLabel": [
+                    "5节",
+                    "班主任辅导"
+                ],
+                "footerLabel": [
+                    "0.02 元/节"
+                ]
+            },
+            {
+                "title": "编程猫机器人课测试3年级（1系列）",
+                "entryThumbnail": "",
+                "classNum": 1,
+                "packageId": 3433,
+                "originalPrice": 0.01,
+                "price": 0.01,
+                "singleCoursesPrice": "0.01 元/节",
+                "giftFlag": "0",
+                "learnWay": "班主任辅导",
+                "skuNumber": "212341140001",
+                "spuNumber": "G212341140",
+                "categoryNumber": "46",
+                "courseForm": "JQRTYK",
+                "grader": [
+                    "PRIMARY_SCHOOL_3"
+                ],
+                "jumpUrl": "codemao://grow/browser?forcelogin=true&url=https%3A%2F%2Ftest-grow.codemao.cn%2Fcourse-detail%3Fshowclose%3Dtrue%26skuNumber%3D212341140001",
+                "centerLabel": [
+                    "1节",
+                    "班主任辅导"
+                ],
+                "footerLabel": [
+                    "0.01 元/节"
+                ]
+            },
+            {
+                "title": "编程猫机器人课测试4年级（1/2系列）",
+                "entryThumbnail": "",
+                "classNum": 1,
+                "packageId": 3432,
+                "originalPrice": 0.01,
+                "price": 0.01,
+                "singleCoursesPrice": "0.01 元/节",
+                "giftFlag": "0",
+                "learnWay": "班主任辅导",
+                "skuNumber": "211641140001",
+                "spuNumber": "G211641140",
+                "categoryNumber": "46",
+                "courseForm": "JQRTYK",
+                "grader": [
+                    "PRIMARY_SCHOOL_4"
+                ],
+                "jumpUrl": "codemao://grow/browser?forcelogin=true&url=https%3A%2F%2Ftest-grow.codemao.cn%2Fcourse-detail%3Fshowclose%3Dtrue%26skuNumber%3D211641140001",
+                "centerLabel": [
+                    "1节",
+                    "班主任辅导"
+                ],
+                "footerLabel": [
+                    "0.01 元/节"
+                ]
+            },
+            {
+                "title": "923新火箭test",
+                "entryThumbnail": "",
+                "classNum": 5,
+                "packageId": 3440,
+                "originalPrice": 0.01,
+                "price": 0.01,
+                "singleCoursesPrice": "0.00 元/节",
+                "giftFlag": "0",
+                "learnWay": "班主任辅导",
+                "skuNumber": "214548140001",
+                "spuNumber": "G214548140",
+                "categoryNumber": "50",
+                "courseForm": "KCTYK",
+                "grader": [
+                    "PRIMARY_SCHOOL_6"
+                ],
+                "jumpUrl": "codemao://grow/browser?forcelogin=true&url=https%3A%2F%2Ftest-grow.codemao.cn%2Fcourse-detail%3Fshowclose%3Dtrue%26skuNumber%3D214548140001",
+                "centerLabel": [
+                    "5节",
+                    "班主任辅导"
+                ],
+                "footerLabel": [
+                    "0.00 元/节"
+                ]
+            },
+            {
+                "title": "926新火箭正式课",
+                "entryThumbnail": "",
+                "classNum": 5,
+                "packageId": 3444,
+                "originalPrice": 0.01,
+                "price": 0.01,
+                "singleCoursesPrice": "0.00 元/节",
+                "giftFlag": "0",
+                "learnWay": "班主任辅导",
+                "skuNumber": "210657140001",
+                "spuNumber": "G210657140",
+                "categoryNumber": "51",
+                "courseForm": "KCZSK",
+                "grader": [
+                    "PRIMARY_SCHOOL_6"
+                ],
+                "jumpUrl": "codemao://grow/browser?forcelogin=true&url=https%3A%2F%2Ftest-grow.codemao.cn%2Fcourse-detail%3Fshowclose%3Dtrue%26skuNumber%3D210657140001",
+                "centerLabel": [
+                    "5节",
+                    "班主任辅导"
+                ],
+                "footerLabel": [
+                    "0.00 元/节"
+                ]
+            },
+            {
+                "title": "机器人正式课",
+                "entryThumbnail": "https://dev-cdn-common.codemao.cn/dev/257/1632711712051_1617021121940test1.jpeg",
+                "classNum": 1,
+                "packageId": 3445,
+                "originalPrice": 0.01,
+                "price": 0.01,
+                "singleCoursesPrice": "0.01 元/节",
+                "cornerMarker": "机器人正式课",
+                "giftFlag": "0",
+                "learnWay": "班主任辅导",
+                "skuNumber": "211157140001",
+                "spuNumber": "G211157140",
+                "categoryNumber": "46",
+                "courseForm": "JQRTYK",
+                "grader": [
+                    "PRIMARY_SCHOOL_6"
+                ],
+                "jumpUrl": "codemao://grow/browser?forcelogin=true&url=https%3A%2F%2Ftest-grow.codemao.cn%2Fcourse-detail%3Fshowclose%3Dtrue%26skuNumber%3D211157140001",
+                "centerLabel": [
+                    "1节",
+                    "班主任辅导"
+                ],
+                "footerLabel": [
+                    "0.01 元/节"
+                ]
+            },
+            {
+                "title": "KC-03",
+                "entryThumbnail": "",
+                "classNum": 5,
+                "packageId": 3420,
+                "originalPrice": 0.01,
+                "price": 0.01,
+                "singleCoursesPrice": "0.00 元/节",
+                "giftFlag": "0",
+                "learnWay": "班主任辅导",
+                "skuNumber": "214128140001",
+                "spuNumber": "G214128140",
+                "categoryNumber": "51",
+                "courseForm": "KCZSK",
+                "jumpUrl": "codemao://grow/browser?forcelogin=true&url=https%3A%2F%2Ftest-grow.codemao.cn%2Fcourse-detail%3Fshowclose%3Dtrue%26skuNumber%3D214128140001",
+                "centerLabel": [
+                    "5节",
+                    "班主任辅导"
+                ],
+                "footerLabel": [
+                    "0.00 元/节"
+                ]
+            },
+            {
+                "title": "KC正式--02",
+                "entryThumbnail": "",
+                "classNum": 0,
+                "packageId": 3417,
+                "originalPrice": 0.01,
+                "price": 0.01,
+                "singleCoursesPrice": "0.01 元/节",
+                "giftFlag": "0",
+                "learnWay": "班主任辅导",
+                "skuNumber": "211221140001",
+                "spuNumber": "G211221140",
+                "categoryNumber": "51",
+                "courseForm": "KCZSK",
+                "jumpUrl": "codemao://grow/browser?forcelogin=true&url=https%3A%2F%2Ftest-grow.codemao.cn%2Fcourse-detail%3Fshowclose%3Dtrue%26skuNumber%3D211221140001",
+                "centerLabel": [
+                    "0节",
+                    "班主任辅导"
+                ],
+                "footerLabel": [
+                    "0.01 元/节"
+                ]
+            }
+        ]
+    },
+    {
+        "type": "PRODUCT_COURSE_LEARN_SELF",
+        "items": [
+            {
+                "title": "风洞实验课-观雯",
+                "entryThumbnail": "https://dev-cdn-common.codemao.cn/dev/257/1631775321794_风车图.jpg",
+                "classNum": 2,
+                "packageId": 3423,
+                "originalPrice": 1.00,
+                "price": 0.02,
+                "singleCoursesPrice": "0.01 元/节",
+                "cornerMarker": "风洞标签",
+                "giftFlag": "0",
+                "learnWay": "录播课自学",
+                "skuNumber": "215101140001",
+                "spuNumber": "G215101140",
+                "categoryNumber": "48",
+                "courseForm": "TRAINING_CAMP",
+                "grader": [
+                    "PRIMARY_SCHOOL_1",
+                    "KINDERGARTEN_1",
+                    "KINDERGARTEN_2",
+                    "KINDERGARTEN_3",
+                    "PRIMARY_SCHOOL_2",
+                    "PRIMARY_SCHOOL_3",
+                    "PRIMARY_SCHOOL_4",
+                    "PRIMARY_SCHOOL_5",
+                    "PRIMARY_SCHOOL_6",
+                    "MIDDLE_SCHOOL_1",
+                    "MIDDLE_SCHOOL_2",
+                    "HIGH_SCHOOL_1",
+                    "MIDDLE_SCHOOL_3",
+                    "HIGH_SCHOOL_2",
+                    "HIGH_SCHOOL_3",
+                    "OTHER"
+                ],
+                "jumpUrl": "codemao://grow/browser?forcelogin=true&url=https%3A%2F%2Ftest-grow.codemao.cn%2Fcourse-detail%3Fshowclose%3Dtrue%26skuNumber%3D215101140001",
+                "centerLabel": [
+                    "2节",
+                    "录播课自学"
+                ],
+                "footerLabel": [
+                    "0.01 元/节"
+                ]
+            },
+            {
+                "title": "四年级1阶段测试编程课4",
+                "entryThumbnail": "https://dev-cdn-common.codemao.cn/dev/257/1631946640495_animated_bcm-danceB_14.png",
+                "classNum": 7,
+                "packageId": 3421,
+                "originalPrice": 0.01,
+                "price": 0.01,
+                "singleCoursesPrice": "0.00 元/节",
+                "cornerMarker": "测试标签1",
+                "giftFlag": "0",
+                "learnWay": "录播课自学",
+                "skuNumber": "215323140001",
+                "spuNumber": "G215323140",
+                "categoryNumber": "48",
+                "courseForm": "TRAINING_CAMP",
+                "grader": [
+                    "PRIMARY_SCHOOL_1",
+                    "PRIMARY_SCHOOL_2",
+                    "PRIMARY_SCHOOL_3",
+                    "PRIMARY_SCHOOL_4",
+                    "PRIMARY_SCHOOL_5",
+                    "PRIMARY_SCHOOL_6",
+                    "MIDDLE_SCHOOL_1",
+                    "MIDDLE_SCHOOL_2",
+                    "MIDDLE_SCHOOL_3",
+                    "HIGH_SCHOOL_1"
+                ],
+                "jumpUrl": "codemao://grow/browser?forcelogin=true&url=https%3A%2F%2Ftest-grow.codemao.cn%2Fcourse-detail%3Fshowclose%3Dtrue%26skuNumber%3D215323140001",
+                "centerLabel": [
+                    "7节",
+                    "录播课自学"
+                ],
+                "footerLabel": [
+                    "0.00 元/节"
+                ]
+            },
+            {
+                "title": "轻课开发联调专用",
+                "entryThumbnail": "https://dev-cdn-common.codemao.cn/dev/257/1632368235396_image 103.png",
+                "classNum": 2,
+                "packageId": 3207,
+                "originalPrice": 20.00,
+                "price": 0.02,
+                "singleCoursesPrice": "0.01 元/节",
+                "cornerMarker": "免费试学",
+                "giftFlag": "0",
+                "learnWay": "录播课自学",
+                "skuNumber": "217637120001",
+                "spuNumber": "G217637120",
+                "categoryNumber": "48",
+                "courseForm": "TRAINING_CAMP",
+                "grader": [
+                    "PRIMARY_SCHOOL_1"
+                ],
+                "jumpUrl": "codemao://grow/browser?forcelogin=true&url=https%3A%2F%2Ftest-grow.codemao.cn%2Fcourse-detail%3Fshowclose%3Dtrue%26skuNumber%3D217637120001",
+                "centerLabel": [
+                    "2节",
+                    "录播课自学"
+                ],
+                "footerLabel": [
+                    "0.01 元/节"
+                ]
+            },
+            {
+                "title": "轻课开发联调专用",
+                "entryThumbnail": "https://dev-cdn-common.codemao.cn/dev/257/1632368235396_image 103.png",
+                "classNum": 2,
+                "packageId": 3207,
+                "originalPrice": 1.00,
+                "price": 1.00,
+                "singleCoursesPrice": "0.50 元/节",
+                "cornerMarker": "免费试学",
+                "giftFlag": "0",
+                "learnWay": "录播课自学",
+                "skuNumber": "217637120002",
+                "spuNumber": "G217637120",
+                "categoryNumber": "48",
+                "courseForm": "TRAINING_CAMP",
+                "grader": [
+                    "PRIMARY_SCHOOL_1"
+                ],
+                "jumpUrl": "codemao://grow/browser?forcelogin=true&url=https%3A%2F%2Ftest-grow.codemao.cn%2Fcourse-detail%3Fshowclose%3Dtrue%26skuNumber%3D217637120002",
+                "centerLabel": [
+                    "2节",
+                    "录播课自学"
+                ],
+                "footerLabel": [
+                    "0.50 元/节"
+                ]
+            },
+            {
+                "title": "四年级1阶段测试编程课5",
+                "entryThumbnail": "https://dev-cdn-common.codemao.cn/dev/257/1631877965724_animated_bcm-danceB_6.png",
+                "classNum": 16,
+                "packageId": 3413,
+                "originalPrice": 1.00,
+                "price": 0.01,
+                "singleCoursesPrice": "0.00 元/节",
+                "cornerMarker": "测试免费",
+                "giftFlag": "0",
+                "learnWay": "录播课自学",
+                "skuNumber": "218915140001",
+                "spuNumber": "G218915140",
+                "categoryNumber": "48",
+                "courseForm": "TRAINING_CAMP",
+                "grader": [
+                    "PRIMARY_SCHOOL_1",
+                    "PRIMARY_SCHOOL_2",
+                    "PRIMARY_SCHOOL_5",
+                    "PRIMARY_SCHOOL_6",
+                    "PRIMARY_SCHOOL_4",
+                    "PRIMARY_SCHOOL_3"
+                ],
+                "jumpUrl": "codemao://grow/browser?forcelogin=true&url=https%3A%2F%2Ftest-grow.codemao.cn%2Fcourse-detail%3Fshowclose%3Dtrue%26skuNumber%3D218915140001",
+                "centerLabel": [
+                    "16节",
+                    "录播课自学"
+                ],
+                "footerLabel": [
+                    "0.00 元/节"
+                ]
+            },
+            {
+                "title": "四年级1阶段PYTHON编程课",
+                "entryThumbnail": "https://dev-cdn-common.codemao.cn/dev/257/1627020169832_小火箭-产品主图.png",
+                "classNum": 1,
+                "packageId": 3296,
+                "originalPrice": 0.00,
+                "price": 0.00,
+                "singleCoursesPrice": "0 元/节",
+                "cornerMarker": "免费试学",
+                "giftFlag": "0",
+                "learnWay": "录播课自学",
+                "skuNumber": "217783120002",
+                "spuNumber": "G217783120",
+                "categoryNumber": "48",
+                "courseForm": "TRAINING_CAMP",
+                "grader": [
+                    "PRIMARY_SCHOOL_4"
+                ],
+                "jumpUrl": "codemao://grow/browser?forcelogin=true&url=https%3A%2F%2Ftest-grow.codemao.cn%2Fcourse-detail%3Fshowclose%3Dtrue%26skuNumber%3D217783120002",
+                "centerLabel": [
+                    "1节",
+                    "录播课自学"
+                ],
+                "footerLabel": [
+                    "0 元/节"
+                ]
+            },
+            {
+                "title": "四年级1阶段测试编程课1",
+                "entryThumbnail": "",
+                "classNum": 9,
+                "packageId": 3396,
+                "originalPrice": 12.00,
+                "price": 0.01,
+                "singleCoursesPrice": "0.00 元/节",
+                "cornerMarker": "这是轻课的商品标签",
+                "giftFlag": "0",
+                "learnWay": "录播课自学",
+                "skuNumber": "211699130004",
+                "spuNumber": "G211699130",
+                "categoryNumber": "48",
+                "courseForm": "TRAINING_CAMP",
+                "grader": [
+                    "PRIMARY_SCHOOL_4"
+                ],
+                "jumpUrl": "codemao://grow/browser?forcelogin=true&url=https%3A%2F%2Ftest-grow.codemao.cn%2Fcourse-detail%3Fshowclose%3Dtrue%26skuNumber%3D211699130004",
+                "centerLabel": [
+                    "9节",
+                    "录播课自学"
+                ],
+                "footerLabel": [
+                    "0.00 元/节"
+                ]
+            },
+            {
+                "title": "四年级1阶段测试编程课1",
+                "entryThumbnail": "",
+                "classNum": 9,
+                "packageId": 3396,
+                "originalPrice": 123.00,
+                "price": 0.01,
+                "singleCoursesPrice": "0.00 元/节",
+                "cornerMarker": "这是轻课的商品标签",
+                "giftFlag": "0",
+                "learnWay": "录播课自学",
+                "skuNumber": "211699130003",
+                "spuNumber": "G211699130",
+                "categoryNumber": "48",
+                "courseForm": "TRAINING_CAMP",
+                "grader": [
+                    "PRIMARY_SCHOOL_4"
+                ],
+                "jumpUrl": "codemao://grow/browser?forcelogin=true&url=https%3A%2F%2Ftest-grow.codemao.cn%2Fcourse-detail%3Fshowclose%3Dtrue%26skuNumber%3D211699130003",
+                "centerLabel": [
+                    "9节",
+                    "录播课自学"
+                ],
+                "footerLabel": [
+                    "0.00 元/节"
+                ]
+            },
+            {
+                "title": "四年级1阶段测试编程课1",
+                "entryThumbnail": "",
+                "classNum": 9,
+                "packageId": 3396,
+                "originalPrice": 123.00,
+                "price": 0.01,
+                "singleCoursesPrice": "0.00 元/节",
+                "cornerMarker": "这是轻课的商品标签",
+                "giftFlag": "0",
+                "learnWay": "录播课自学",
+                "skuNumber": "211699130002",
+                "spuNumber": "G211699130",
+                "categoryNumber": "48",
+                "courseForm": "TRAINING_CAMP",
+                "grader": [
+                    "PRIMARY_SCHOOL_4"
+                ],
+                "jumpUrl": "codemao://grow/browser?forcelogin=true&url=https%3A%2F%2Ftest-grow.codemao.cn%2Fcourse-detail%3Fshowclose%3Dtrue%26skuNumber%3D211699130002",
+                "centerLabel": [
+                    "9节",
+                    "录播课自学"
+                ],
+                "footerLabel": [
+                    "0.00 元/节"
+                ]
+            },
+            {
+                "title": "四年级1阶段测试编程课1",
+                "entryThumbnail": "",
+                "classNum": 9,
+                "packageId": 3396,
+                "originalPrice": 123.00,
+                "price": 0.01,
+                "singleCoursesPrice": "0.00 元/节",
+                "cornerMarker": "这是轻课的商品标签",
+                "giftFlag": "0",
+                "learnWay": "录播课自学",
+                "skuNumber": "211699130001",
+                "spuNumber": "G211699130",
+                "categoryNumber": "48",
+                "courseForm": "TRAINING_CAMP",
+                "grader": [
+                    "PRIMARY_SCHOOL_4"
+                ],
+                "jumpUrl": "codemao://grow/browser?forcelogin=true&url=https%3A%2F%2Ftest-grow.codemao.cn%2Fcourse-detail%3Fshowclose%3Dtrue%26skuNumber%3D211699130001",
+                "centerLabel": [
+                    "9节",
+                    "录播课自学"
+                ],
+                "footerLabel": [
+                    "0.00 元/节"
+                ]
+            },
+            {
+                "title": "四年级1阶段测试编程课",
+                "entryThumbnail": "",
+                "classNum": 18,
+                "packageId": 3393,
+                "originalPrice": 1234.00,
+                "price": 0.01,
+                "singleCoursesPrice": "0.00 元/节",
+                "cornerMarker": "这是轻课的商品标签",
+                "giftFlag": "0",
+                "learnWay": "录播课自学",
+                "skuNumber": "219580130002",
+                "spuNumber": "G219580130",
+                "categoryNumber": "48",
+                "courseForm": "TRAINING_CAMP",
+                "grader": [
+                    "PRIMARY_SCHOOL_4"
+                ],
+                "jumpUrl": "codemao://grow/browser?forcelogin=true&url=https%3A%2F%2Ftest-grow.codemao.cn%2Fcourse-detail%3Fshowclose%3Dtrue%26skuNumber%3D219580130002",
+                "centerLabel": [
+                    "18节",
+                    "录播课自学"
+                ],
+                "footerLabel": [
+                    "0.00 元/节"
+                ]
+            },
+            {
+                "title": "四年级1阶段测试编程课",
+                "entryThumbnail": "",
+                "classNum": 18,
+                "packageId": 3393,
+                "originalPrice": 1234.00,
+                "price": 0.01,
+                "singleCoursesPrice": "0.00 元/节",
+                "cornerMarker": "这是轻课的商品标签",
+                "giftFlag": "0",
+                "learnWay": "录播课自学",
+                "skuNumber": "219580130001",
+                "spuNumber": "G219580130",
+                "categoryNumber": "48",
+                "courseForm": "TRAINING_CAMP",
+                "grader": [
+                    "PRIMARY_SCHOOL_4"
+                ],
+                "jumpUrl": "codemao://grow/browser?forcelogin=true&url=https%3A%2F%2Ftest-grow.codemao.cn%2Fcourse-detail%3Fshowclose%3Dtrue%26skuNumber%3D219580130001",
+                "centerLabel": [
+                    "18节",
+                    "录播课自学"
+                ],
+                "footerLabel": [
+                    "0.00 元/节"
+                ]
+            },
+            {
+                "title": "四年级1阶段图形化编程课",
+                "entryThumbnail": "https://dev-cdn-common.codemao.cn/dev/257/1627020169832_小火箭-产品主图.png",
+                "classNum": 1,
+                "packageId": 3294,
+                "originalPrice": 12.00,
+                "price": 0.01,
+                "singleCoursesPrice": "0.01 元/节",
+                "cornerMarker": "免费试学",
+                "giftFlag": "0",
+                "learnWay": "录播课自学",
+                "skuNumber": "214789120001",
+                "spuNumber": "G214789120",
+                "categoryNumber": "48",
+                "courseForm": "TRAINING_CAMP",
+                "grader": [
+                    "PRIMARY_SCHOOL_4"
+                ],
+                "jumpUrl": "codemao://grow/browser?forcelogin=true&url=https%3A%2F%2Ftest-grow.codemao.cn%2Fcourse-detail%3Fshowclose%3Dtrue%26skuNumber%3D214789120001",
+                "centerLabel": [
+                    "1节",
+                    "录播课自学"
+                ],
+                "footerLabel": [
+                    "0.01 元/节"
+                ]
+            },
+            {
+                "title": "922编测test",
+                "entryThumbnail": "",
+                "classNum": 5,
+                "packageId": 3431,
+                "originalPrice": 0.01,
+                "price": 0.01,
+                "singleCoursesPrice": "0.00 元/节",
+                "giftFlag": "0",
+                "learnWay": "录播课自学",
+                "skuNumber": "215932140001",
+                "spuNumber": "G215932140",
+                "categoryNumber": "48",
+                "courseForm": "TRAINING_CAMP",
+                "grader": [
+                    "PRIMARY_SCHOOL_5",
+                    "PRIMARY_SCHOOL_6"
+                ],
+                "jumpUrl": "codemao://grow/browser?forcelogin=true&url=https%3A%2F%2Ftest-grow.codemao.cn%2Fcourse-detail%3Fshowclose%3Dtrue%26skuNumber%3D215932140001",
+                "centerLabel": [
+                    "5节",
+                    "录播课自学"
+                ],
+                "footerLabel": [
+                    "0.00 元/节"
+                ]
+            },
+            {
+                "title": "922test",
+                "entryThumbnail": "",
+                "classNum": 5,
+                "packageId": 3430,
+                "originalPrice": 0.01,
+                "price": 0.01,
+                "singleCoursesPrice": "0.00 元/节",
+                "giftFlag": "0",
+                "learnWay": "录播课自学",
+                "skuNumber": "214437140001",
+                "spuNumber": "G214437140",
+                "categoryNumber": "48",
+                "courseForm": "TRAINING_CAMP",
+                "grader": [
+                    "PRIMARY_SCHOOL_6"
+                ],
+                "jumpUrl": "codemao://grow/browser?forcelogin=true&url=https%3A%2F%2Ftest-grow.codemao.cn%2Fcourse-detail%3Fshowclose%3Dtrue%26skuNumber%3D214437140001",
+                "centerLabel": [
+                    "5节",
+                    "录播课自学"
+                ],
+                "footerLabel": [
+                    "0.00 元/节"
+                ]
+            }
+        ]
+    },
+    {
+        "type": "PRODUCT_NCT_TEST",
+        "items": [
+            {
+                "title": "lbk-nct测试",
+                "entryThumbnail": "https://dev-cdn-common.codemao.cn/dev/257/1631782996383_mm01.jpeg",
+                "classNum": 6,
+                "packageId": 3414,
+                "originalPrice": 0.02,
+                "price": 0.01,
+                "singleCoursesPrice": "0.00 元/节",
+                "giftFlag": "0",
+                "learnWay": "录播课自学",
+                "skuNumber": "212612140001",
+                "spuNumber": "G212612140",
+                "categoryNumber": "58",
+                "courseForm": "PROGRAMMING_TEST",
+                "jumpUrl": "codemao://grow/browser?forcelogin=true&url=https%3A%2F%2Ftest-grow.codemao.cn%2Fcourse-detail%3Fshowclose%3Dtrue%26skuNumber%3D212612140001",
+                "centerLabel": [
+                    "6节",
+                    "录播课自学"
+                ],
+                "footerLabel": [
+                    "0.00 元/节"
+                ]
+            },
+            {
+                "title": "nct二年级1阶段",
+                "entryThumbnail": "",
+                "classNum": 1,
+                "packageId": 3425,
+                "originalPrice": 0.01,
+                "price": 0.01,
+                "singleCoursesPrice": "0.01 元/节",
+                "giftFlag": "0",
+                "learnWay": "录播课自学",
+                "skuNumber": "218829140001",
+                "spuNumber": "G218829140",
+                "categoryNumber": "58",
+                "courseForm": "PROGRAMMING_TEST",
+                "grader": [
+                    "PRIMARY_SCHOOL_2"
+                ],
+                "jumpUrl": "codemao://grow/browser?forcelogin=true&url=https%3A%2F%2Ftest-grow.codemao.cn%2Fcourse-detail%3Fshowclose%3Dtrue%26skuNumber%3D218829140001",
+                "centerLabel": [
+                    "1节",
+                    "录播课自学"
+                ],
+                "footerLabel": [
+                    "0.01 元/节"
+                ]
+            },
+            {
+                "title": "nc三年级1阶段",
+                "entryThumbnail": "",
+                "classNum": 1,
+                "packageId": 3427,
+                "originalPrice": 0.01,
+                "price": 0.01,
+                "singleCoursesPrice": "0.01 元/节",
+                "giftFlag": "0",
+                "learnWay": "录播课自学",
+                "skuNumber": "211535140001",
+                "spuNumber": "G211535140",
+                "categoryNumber": "58",
+                "courseForm": "PROGRAMMING_TEST",
+                "grader": [
+                    "PRIMARY_SCHOOL_3"
+                ],
+                "jumpUrl": "codemao://grow/browser?forcelogin=true&url=https%3A%2F%2Ftest-grow.codemao.cn%2Fcourse-detail%3Fshowclose%3Dtrue%26skuNumber%3D211535140001",
+                "centerLabel": [
+                    "1节",
+                    "录播课自学"
+                ],
+                "footerLabel": [
+                    "0.01 元/节"
+                ]
+            },
+            {
+                "title": "926编测",
+                "entryThumbnail": "",
+                "classNum": 5,
+                "packageId": 3443,
+                "originalPrice": 0.01,
+                "price": 0.01,
+                "singleCoursesPrice": "0.00 元/节",
+                "giftFlag": "0",
+                "learnWay": "录播课自学",
+                "skuNumber": "216844140001",
+                "spuNumber": "G216844140",
+                "categoryNumber": "58",
+                "courseForm": "PROGRAMMING_TEST",
+                "grader": [
+                    "PRIMARY_SCHOOL_6"
+                ],
+                "jumpUrl": "codemao://grow/browser?forcelogin=true&url=https%3A%2F%2Ftest-grow.codemao.cn%2Fcourse-detail%3Fshowclose%3Dtrue%26skuNumber%3D216844140001",
+                "centerLabel": [
+                    "5节",
+                    "录播课自学"
+                ],
+                "footerLabel": [
+                    "0.00 元/节"
+                ]
+            },
+            {
+                "title": "NCT轻课测试",
+                "entryThumbnail": "",
+                "classNum": 5,
+                "packageId": 3447,
+                "originalPrice": 0.01,
+                "price": 0.01,
+                "singleCoursesPrice": "0.00 元/节",
+                "giftFlag": "0",
+                "learnWay": "录播课自学",
+                "skuNumber": "212356140001",
+                "spuNumber": "G212356140",
+                "categoryNumber": "58",
+                "courseForm": "PROGRAMMING_TEST",
+                "grader": [
+                    "PRIMARY_SCHOOL_3",
+                    "PRIMARY_SCHOOL_4",
+                    "PRIMARY_SCHOOL_2",
+                    "PRIMARY_SCHOOL_5",
+                    "PRIMARY_SCHOOL_6"
+                ],
+                "jumpUrl": "codemao://grow/browser?forcelogin=true&url=https%3A%2F%2Ftest-grow.codemao.cn%2Fcourse-detail%3Fshowclose%3Dtrue%26skuNumber%3D212356140001",
+                "centerLabel": [
+                    "5节",
+                    "录播课自学"
+                ],
+                "footerLabel": [
+                    "0.00 元/节"
+                ]
+            }
+        ]
+    },
+    {
+        "type": "PRODUCT_COURSE_FINE",
+        "items": [
+            {
+                "title": "kc体验课2",
+                "entryThumbnail": "https://dev-cdn-common.codemao.cn/dev/257/1629374879073_61819ECE-78AD-4AFC-B01E-BCD95181C7E6.png",
+                "classNum": 1,
+                "packageId": 3352,
+                "originalPrice": 0.10,
+                "price": 0.10,
+                "singleCoursesPrice": "0.10 元/节",
+                "giftFlag": "0",
+                "learnWay": "班主任辅导",
+                "skuNumber": "214547130001",
+                "spuNumber": "G214547130",
+                "categoryNumber": "13",
+                "courseForm": "LBKZSK",
+                "grader": [
+                    "KINDERGARTEN_1",
+                    "KINDERGARTEN_2",
+                    "KINDERGARTEN_3",
+                    "PRIMARY_SCHOOL_1"
+                ],
+                "jumpUrl": "codemao://grow/browser?forcelogin=true&url=https%3A%2F%2Ftest-grow.codemao.cn%2Fcourse-detail%3Fshowclose%3Dtrue%26skuNumber%3D214547130001",
+                "centerLabel": [
+                    "1节",
+                    "班主任辅导"
+                ],
+                "footerLabel": [
+                    "0.10 元/节"
+                ]
+            },
+            {
+                "title": "Hyean(专属)-小火箭进阶课",
+                "entryThumbnail": "https://dev-cdn-common.codemao.cn/dev/257/1626497698819_产品图标-小火箭-进阶课.png",
+                "classNum": 8,
+                "packageId": 3134,
+                "originalPrice": 2380.00,
+                "price": 0.01,
+                "singleCoursesPrice": "0.00 元/节",
+                "cornerMarker": "高阶学习",
+                "giftFlag": "1",
+                "learnWay": "班主任辅导",
+                "skuNumber": "213560110001",
+                "spuNumber": "G213560110",
+                "categoryNumber": "11",
+                "courseForm": "LBKZSK",
+                "grader": [
+                    "PRIMARY_SCHOOL_2",
+                    "KINDERGARTEN_1",
+                    "KINDERGARTEN_2",
+                    "KINDERGARTEN_3",
+                    "PRIMARY_SCHOOL_1",
+                    "PRIMARY_SCHOOL_3"
+                ],
+                "jumpUrl": "codemao://grow/browser?forcelogin=true&url=https%3A%2F%2Ftest-grow.codemao.cn%2Fcourse-detail%3Fshowclose%3Dtrue%26skuNumber%3D213560110001",
+                "centerLabel": [
+                    "8节",
+                    "班主任辅导"
+                ],
+                "footerLabel": [
+                    "0.00 元/节"
+                ]
+            },
+            {
+                "title": "定制课3.0-观雯",
+                "entryThumbnail": "https://dev-cdn-common.codemao.cn/dev/257/1631781357173_2.jpg",
+                "courseNum": 1,
+                "originalPrice": 1.00,
+                "price": 0.02,
+                "singleCoursesPrice": "0.02 元/课时",
+                "giftFlag": "0",
+                "learnWay": "真人直播互动",
+                "skuNumber": "211214140001",
+                "spuNumber": "G211214140",
+                "categoryNumber": "1",
+                "courseForm": "DZKZSK",
+                "grader": [
+                    "KINDERGARTEN_1"
+                ],
+                "jumpUrl": "codemao://grow/browser?forcelogin=true&url=https%3A%2F%2Ftest-grow.codemao.cn%2Fcourse-detail%3Fshowclose%3Dtrue%26skuNumber%3D211214140001",
+                "centerLabel": [
+                    "1课时",
+                    "真人直播互动"
+                ],
+                "footerLabel": [
+                    "0.02 元/课时"
+                ]
+            },
+            {
+                "title": "测试商品88809261",
+                "entryThumbnail": "",
+                "courseNum": 1,
+                "originalPrice": 10.00,
+                "price": 1.00,
+                "singleCoursesPrice": "1.00 元/课时",
+                "cornerMarker": "454545",
+                "giftFlag": "0",
+                "learnWay": "真人直播互动",
+                "skuNumber": "218948140001",
+                "spuNumber": "G218948140",
+                "categoryNumber": "1",
+                "courseForm": "DZKZSK",
+                "grader": [
+                    "PRIMARY_SCHOOL_1",
+                    "PRIMARY_SCHOOL_3",
+                    "KINDERGARTEN_2",
+                    "PRIMARY_SCHOOL_5"
+                ],
+                "jumpUrl": "codemao://grow/browser?forcelogin=true&url=https%3A%2F%2Ftest-grow.codemao.cn%2Fcourse-detail%3Fshowclose%3Dtrue%26skuNumber%3D218948140001",
+                "centerLabel": [
+                    "1课时",
+                    "真人直播互动"
+                ],
+                "footerLabel": [
+                    "1.00 元/课时"
+                ]
+            },
+            {
+                "title": "UI自动化框架之服务部署概要",
+                "entryThumbnail": "https://dev-cdn-common.codemao.cn/dev/257/1632377881933_蒙版.png",
+                "originalPrice": 4.00,
+                "price": 3.00,
+                "cornerMarker": "沙发沙发",
+                "giftFlag": "0",
+                "skuNumber": "212895120001",
+                "spuNumber": "G212895120",
+                "categoryNumber": "36",
+                "courseForm": "",
+                "grader": [
+                    "KINDERGARTEN_3"
+                ],
+                "jumpUrl": "codemao://grow/browser?forcelogin=true&url=https%3A%2F%2Ftest-grow.codemao.cn%2Fcourse-detail%3Fshowclose%3Dtrue%26skuNumber%3D212895120001"
+            },
+            {
+                "title": "UI自动化框架之服务部署概要",
+                "entryThumbnail": "https://dev-cdn-common.codemao.cn/dev/257/1632377881933_蒙版.png",
+                "originalPrice": 8.00,
+                "price": 5.00,
+                "cornerMarker": "沙发沙发",
+                "giftFlag": "0",
+                "skuNumber": "212895120002",
+                "spuNumber": "G212895120",
+                "categoryNumber": "36",
+                "courseForm": "",
+                "grader": [
+                    "KINDERGARTEN_3"
+                ],
+                "jumpUrl": "codemao://grow/browser?forcelogin=true&url=https%3A%2F%2Ftest-grow.codemao.cn%2Fcourse-detail%3Fshowclose%3Dtrue%26skuNumber%3D212895120002"
+            },
+            {
+                "title": "编程猫机器人体验课",
+                "entryThumbnail": "",
+                "classNum": 2,
+                "packageId": 3437,
+                "originalPrice": 369.00,
+                "price": 0.01,
+                "singleCoursesPrice": "0.01 元/节",
+                "giftFlag": "0",
+                "learnWay": "班主任辅导",
+                "skuNumber": "218330140001",
+                "spuNumber": "G218330140",
+                "categoryNumber": "13",
+                "courseForm": "LBKZSK",
+                "grader": [
+                    "PRIMARY_SCHOOL_1",
+                    "PRIMARY_SCHOOL_2",
+                    "PRIMARY_SCHOOL_3",
+                    "PRIMARY_SCHOOL_4"
+                ],
+                "jumpUrl": "codemao://grow/browser?forcelogin=true&url=https%3A%2F%2Ftest-grow.codemao.cn%2Fcourse-detail%3Fshowclose%3Dtrue%26skuNumber%3D218330140001",
+                "centerLabel": [
+                    "2节",
+                    "班主任辅导"
+                ],
+                "footerLabel": [
+                    "0.01 元/节"
+                ]
+            },
+            {
+                "title": "画报期刊测试",
+                "entryThumbnail": "",
+                "courseNum": 0,
+                "originalPrice": 0.01,
+                "price": 0.01,
+                "singleCoursesPrice": "0.01 元/课时",
+                "giftFlag": "0",
+                "learnWay": "真人直播互动",
+                "skuNumber": "216350140001",
+                "spuNumber": "G216350140",
+                "categoryNumber": "9",
+                "courseForm": "DZKTYK",
+                "grader": [
+                    "PRIMARY_SCHOOL_1",
+                    "PRIMARY_SCHOOL_2",
+                    "PRIMARY_SCHOOL_3",
+                    "PRIMARY_SCHOOL_4",
+                    "PRIMARY_SCHOOL_5"
+                ],
+                "jumpUrl": "codemao://grow/browser?forcelogin=true&url=https%3A%2F%2Ftest-grow.codemao.cn%2Fcourse-detail%3Fshowclose%3Dtrue%26skuNumber%3D216350140001",
+                "centerLabel": [
+                    "0课时",
+                    "真人直播互动"
+                ],
+                "footerLabel": [
+                    "0.01 元/课时"
+                ]
+            },
+            {
+                "title": "等考测试098",
+                "entryThumbnail": "",
+                "originalPrice": 300.00,
+                "price": 300.00,
+                "giftFlag": "0",
+                "skuNumber": "211588130001",
+                "spuNumber": "G211588130",
+                "categoryNumber": "6",
+                "courseForm": "",
+                "grader": [
+                    "PRIMARY_SCHOOL_1",
+                    "PRIMARY_SCHOOL_2",
+                    "PRIMARY_SCHOOL_3",
+                    "PRIMARY_SCHOOL_5",
+                    "PRIMARY_SCHOOL_4",
+                    "PRIMARY_SCHOOL_6",
+                    "MIDDLE_SCHOOL_1",
+                    "MIDDLE_SCHOOL_2",
+                    "MIDDLE_SCHOOL_3"
+                ],
+                "jumpUrl": "codemao://grow/browser?forcelogin=true&url=https%3A%2F%2Ftest-grow.codemao.cn%2Fcourse-detail%3Fshowclose%3Dtrue%26skuNumber%3D211588130001"
+            },
+            {
+                "title": "等考测试",
+                "entryThumbnail": "",
+                "originalPrice": 300.00,
+                "price": 300.00,
+                "cornerMarker": "测试",
+                "giftFlag": "0",
+                "skuNumber": "213367130001",
+                "spuNumber": "G213367130",
+                "categoryNumber": "6",
+                "courseForm": "",
+                "grader": [
+                    "PRIMARY_SCHOOL_1",
+                    "PRIMARY_SCHOOL_2",
+                    "PRIMARY_SCHOOL_3",
+                    "PRIMARY_SCHOOL_4",
+                    "PRIMARY_SCHOOL_5",
+                    "PRIMARY_SCHOOL_6",
+                    "MIDDLE_SCHOOL_1",
+                    "MIDDLE_SCHOOL_2",
+                    "MIDDLE_SCHOOL_3"
+                ],
+                "jumpUrl": "codemao://grow/browser?forcelogin=true&url=https%3A%2F%2Ftest-grow.codemao.cn%2Fcourse-detail%3Fshowclose%3Dtrue%26skuNumber%3D213367130001"
+            },
+            {
+                "title": "等考测试",
+                "entryThumbnail": "",
+                "originalPrice": 300.00,
+                "price": 300.00,
+                "cornerMarker": "测试",
+                "giftFlag": "0",
+                "skuNumber": "212063130001",
+                "spuNumber": "G212063130",
+                "categoryNumber": "6",
+                "courseForm": "",
+                "grader": [
+                    "PRIMARY_SCHOOL_1",
+                    "PRIMARY_SCHOOL_2",
+                    "PRIMARY_SCHOOL_3"
+                ],
+                "jumpUrl": "codemao://grow/browser?forcelogin=true&url=https%3A%2F%2Ftest-grow.codemao.cn%2Fcourse-detail%3Fshowclose%3Dtrue%26skuNumber%3D212063130001"
+            },
+            {
+                "title": "探月体验课测试商品2",
+                "entryThumbnail": "",
+                "classNum": 5,
+                "packageId": 3458,
+                "originalPrice": 0.00,
+                "price": 0.01,
+                "singleCoursesPrice": "0.00 元/节",
+                "cornerMarker": "PYTHON",
+                "giftFlag": "0",
+                "learnWay": "班主任辅导",
+                "skuNumber": "212084140001",
+                "spuNumber": "G212084140",
+                "categoryNumber": "14",
+                "courseForm": "LBKTYK",
+                "grader": [
+                    "PRIMARY_SCHOOL_2",
+                    "PRIMARY_SCHOOL_4"
+                ],
+                "jumpUrl": "codemao://grow/browser?forcelogin=true&url=https%3A%2F%2Ftest-grow.codemao.cn%2Fcourse-detail%3Fshowclose%3Dtrue%26skuNumber%3D212084140001",
+                "centerLabel": [
+                    "5节",
+                    "班主任辅导"
+                ],
+                "footerLabel": [
+                    "0.00 元/节"
+                ]
+            },
+            {
+                "title": "定制课测试商品",
+                "entryThumbnail": "https://dev-cdn-common.codemao.cn/dev/257/1633763161826_1617021121940test1.jpeg",
+                "courseNum": 0,
+                "originalPrice": 0.00,
+                "price": 0.00,
+                "singleCoursesPrice": "0 元/课时",
+                "giftFlag": "0",
+                "learnWay": "真人直播互动",
+                "skuNumber": "213083140001",
+                "spuNumber": "G213083140",
+                "categoryNumber": "9",
+                "courseForm": "DZKTYK",
+                "grader": [
+                    "PRIMARY_SCHOOL_4"
+                ],
+                "jumpUrl": "codemao://grow/browser?forcelogin=true&url=https%3A%2F%2Ftest-grow.codemao.cn%2Fcourse-detail%3Fshowclose%3Dtrue%26skuNumber%3D213083140001",
+                "centerLabel": [
+                    "0课时",
+                    "真人直播互动"
+                ],
+                "footerLabel": [
+                    "0 元/课时"
+                ]
+            },
+            {
+                "title": "4年级的商品",
+                "entryThumbnail": "https://dev-cdn-common.codemao.cn/dev/257/1631089313210_1617021121940test1.jpeg",
+                "courseNum": 0,
+                "originalPrice": 0.00,
+                "price": 0.00,
+                "singleCoursesPrice": "0 元/课时",
+                "giftFlag": "0",
+                "learnWay": "真人直播互动",
+                "skuNumber": "214985130001",
+                "spuNumber": "G214985130",
+                "categoryNumber": "9",
+                "courseForm": "DZKTYK",
+                "grader": [
+                    "PRIMARY_SCHOOL_4"
+                ],
+                "jumpUrl": "codemao://grow/browser?forcelogin=true&url=https%3A%2F%2Ftest-grow.codemao.cn%2Fcourse-detail%3Fshowclose%3Dtrue%26skuNumber%3D214985130001",
+                "centerLabel": [
+                    "0课时",
+                    "真人直播互动"
+                ],
+                "footerLabel": [
+                    "0 元/课时"
+                ]
+            },
+            {
+                "title": "测试1123",
+                "entryThumbnail": "https://dev-cdn-common.codemao.cn/dev/257/1631088059701_1617021121940test1.jpeg",
+                "courseNum": 1,
+                "originalPrice": 1.00,
+                "price": 1.00,
+                "singleCoursesPrice": "1.00 元/课时",
+                "giftFlag": "0",
+                "learnWay": "真人直播互动",
+                "skuNumber": "211870130001",
+                "spuNumber": "G211870130",
+                "categoryNumber": "1",
+                "courseForm": "DZKZSK",
+                "grader": [
+                    "PRIMARY_SCHOOL_4"
+                ],
+                "jumpUrl": "codemao://grow/browser?forcelogin=true&url=https%3A%2F%2Ftest-grow.codemao.cn%2Fcourse-detail%3Fshowclose%3Dtrue%26skuNumber%3D211870130001",
+                "centerLabel": [
+                    "1课时",
+                    "真人直播互动"
+                ],
+                "footerLabel": [
+                    "1.00 元/课时"
+                ]
+            },
+            {
+                "title": "定制课正式课",
+                "entryThumbnail": "https://dev-cdn-common.codemao.cn/dev/257/1632637126841_1617021121940test1.jpeg",
+                "courseNum": 1,
+                "originalPrice": 0.01,
+                "price": 0.01,
+                "singleCoursesPrice": "0.01 元/课时",
+                "cornerMarker": "定制课正式课",
+                "giftFlag": "0",
+                "learnWay": "真人直播互动",
+                "skuNumber": "219147140001",
+                "spuNumber": "G219147140",
+                "categoryNumber": "1",
+                "courseForm": "DZKZSK",
+                "grader": [
+                    "PRIMARY_SCHOOL_4"
+                ],
+                "jumpUrl": "codemao://grow/browser?forcelogin=true&url=https%3A%2F%2Ftest-grow.codemao.cn%2Fcourse-detail%3Fshowclose%3Dtrue%26skuNumber%3D219147140001%26billCode%3D517",
+                "centerLabel": [
+                    "1课时",
+                    "真人直播互动"
+                ],
+                "footerLabel": [
+                    "0.01 元/课时"
+                ]
+            },
+            {
+                "title": "探月准备课",
+                "entryThumbnail": "",
+                "classNum": 3,
+                "packageId": 3362,
+                "originalPrice": 0.00,
+                "price": 0.00,
+                "singleCoursesPrice": "0 元/节",
+                "giftFlag": "0",
+                "learnWay": "班主任辅导",
+                "skuNumber": "214550130001",
+                "spuNumber": "G214550130",
+                "categoryNumber": "14",
+                "courseForm": "LBKTYK",
+                "grader": [
+                    "PRIMARY_SCHOOL_5"
+                ],
+                "jumpUrl": "codemao://grow/browser?forcelogin=true&url=https%3A%2F%2Ftest-grow.codemao.cn%2Fcourse-detail%3Fshowclose%3Dtrue%26skuNumber%3D214550130001",
+                "centerLabel": [
+                    "3节",
+                    "班主任辅导"
+                ],
+                "footerLabel": [
+                    "0 元/节"
+                ]
+            },
+            {
+                "title": "定制课进阶课-29980",
+                "entryThumbnail": "https://dev-cdn-common.codemao.cn/dev/257/1626498409015_产品图标.png",
+                "courseNum": 101,
+                "originalPrice": 100.00,
+                "price": 0.12,
+                "singleCoursesPrice": "0.00 元/课时",
+                "cornerMarker": "深空编程",
+                "giftFlag": "0",
+                "learnWay": "真人直播互动",
+                "skuNumber": "218274090001",
+                "spuNumber": "G218274090",
+                "categoryNumber": "1",
+                "courseForm": "DZKZSK",
+                "grader": [
+                    "PRIMARY_SCHOOL_6",
+                    "MIDDLE_SCHOOL_1",
+                    "MIDDLE_SCHOOL_2",
+                    "MIDDLE_SCHOOL_3",
+                    "HIGH_SCHOOL_1",
+                    "HIGH_SCHOOL_2",
+                    "HIGH_SCHOOL_3"
+                ],
+                "jumpUrl": "codemao://grow/browser?forcelogin=true&url=https%3A%2F%2Ftest-grow.codemao.cn%2Fcourse-detail%3Fshowclose%3Dtrue%26skuNumber%3D218274090001",
+                "centerLabel": [
+                    "101课时",
+                    "真人直播互动"
+                ],
+                "footerLabel": [
+                    "0.00 元/课时"
+                ]
+            },
+            {
+                "title": "定制课12元体验课-编程猫1.1-1",
+                "entryThumbnail": "https://dev-cdn-common.codemao.cn/dev/257/1627612671337_IMG_0455 2.png",
+                "courseNum": 0,
+                "originalPrice": 12.00,
+                "price": 12.00,
+                "singleCoursesPrice": "12.00 元/课时",
+                "giftFlag": "0",
+                "learnWay": "真人直播互动",
+                "skuNumber": "217281110001",
+                "spuNumber": "G217281110",
+                "categoryNumber": "9",
+                "courseForm": "DZKTYK",
+                "grader": [
+                    "MIDDLE_SCHOOL_2",
+                    "MIDDLE_SCHOOL_3",
+                    "HIGH_SCHOOL_1",
+                    "HIGH_SCHOOL_2",
+                    "HIGH_SCHOOL_3"
+                ],
+                "jumpUrl": "codemao://grow/browser?forcelogin=true&url=https%3A%2F%2Ftest-grow.codemao.cn%2Fcourse-detail%3Fshowclose%3Dtrue%26skuNumber%3D217281110001",
+                "centerLabel": [
+                    "0课时",
+                    "真人直播互动"
+                ],
+                "footerLabel": [
+                    "12.00 元/课时"
+                ]
+            },
+            {
+                "title": "huangliyingtest",
+                "entryThumbnail": "",
+                "courseNum": 0,
+                "originalPrice": 550.00,
+                "price": 550.00,
+                "singleCoursesPrice": "550.00 元/课时",
+                "cornerMarker": "test1",
+                "giftFlag": "0",
+                "learnWay": "真人直播互动",
+                "skuNumber": "216554130001",
+                "spuNumber": "G216554130",
+                "categoryNumber": "1",
+                "courseForm": "DZKZSK",
+                "grader": [
+                    "OTHER"
+                ],
+                "jumpUrl": "codemao://grow/browser?forcelogin=true&url=https%3A%2F%2Ftest-grow.codemao.cn%2Fcourse-detail%3Fshowclose%3Dtrue%26skuNumber%3D216554130001",
+                "centerLabel": [
+                    "0课时",
+                    "真人直播互动"
+                ],
+                "footerLabel": [
+                    "550.00 元/课时"
+                ]
+            },
+            {
+                "title": "探月体验课测试",
+                "entryThumbnail": "",
+                "classNum": 6,
+                "packageId": 3407,
+                "originalPrice": 10.00,
+                "price": 0.01,
+                "singleCoursesPrice": "0.00 元/节",
+                "giftFlag": "0",
+                "learnWay": "班主任辅导",
+                "skuNumber": "213202140001",
+                "spuNumber": "G213202140",
+                "categoryNumber": "14",
+                "courseForm": "LBKTYK",
+                "jumpUrl": "codemao://grow/browser?forcelogin=true&url=https%3A%2F%2Ftest-grow.codemao.cn%2Fcourse-detail%3Fshowclose%3Dtrue%26skuNumber%3D213202140001",
+                "centerLabel": [
+                    "6节",
+                    "班主任辅导"
+                ],
+                "footerLabel": [
+                    "0.00 元/节"
+                ]
+            },
+            {
+                "title": "探月进阶课-观雯",
+                "entryThumbnail": "https://dev-cdn-common.codemao.cn/dev/257/1631779365363_风车图.jpg",
+                "classNum": 0,
+                "packageId": 3441,
+                "originalPrice": 1.00,
+                "price": 0.01,
+                "singleCoursesPrice": "0.01 元/节",
+                "giftFlag": "0",
+                "learnWay": "班主任辅导",
+                "skuNumber": "217103140001",
+                "spuNumber": "G217103140",
+                "categoryNumber": "13",
+                "courseForm": "LBKZSK",
+                "jumpUrl": "codemao://grow/browser?forcelogin=true&url=https%3A%2F%2Ftest-grow.codemao.cn%2Fcourse-detail%3Fshowclose%3Dtrue%26skuNumber%3D217103140001",
+                "centerLabel": [
+                    "0节",
+                    "班主任辅导"
+                ],
+                "footerLabel": [
+                    "0.01 元/节"
+                ]
+            },
+            {
+                "title": "Hyean(专属)-定制课50元体验课-编程猫1.1-1",
+                "entryThumbnail": "https://dev-cdn-common.codemao.cn/dev/257/1626497299411_产品图标.png",
+                "courseNum": 0,
+                "originalPrice": 0.02,
+                "price": 0.02,
+                "singleCoursesPrice": "0.02 元/课时",
+                "cornerMarker": "定制课",
+                "giftFlag": "0",
+                "learnWay": "真人直播互动",
+                "skuNumber": "218365110001",
+                "spuNumber": "G218365110",
+                "categoryNumber": "9",
+                "courseForm": "DZKTYK",
+                "jumpUrl": "codemao://grow/browser?forcelogin=true&url=https%3A%2F%2Ftest-grow.codemao.cn%2Fcourse-detail%3Fshowclose%3Dtrue%26skuNumber%3D218365110001",
+                "centerLabel": [
+                    "0课时",
+                    "真人直播互动"
+                ],
+                "footerLabel": [
+                    "0.02 元/课时"
+                ]
+            },
+            {
+                "title": "定制课体验课-观雯",
+                "entryThumbnail": "https://dev-cdn-common.codemao.cn/dev/257/1631780180935_1.jpg",
+                "courseNum": 0,
+                "originalPrice": 1.00,
+                "price": 0.02,
+                "singleCoursesPrice": "0.02 元/课时",
+                "cornerMarker": "定制课体验的标签",
+                "giftFlag": "0",
+                "learnWay": "真人直播互动",
+                "skuNumber": "210917140001",
+                "spuNumber": "G210917140",
+                "categoryNumber": "9",
+                "courseForm": "DZKTYK",
+                "jumpUrl": "codemao://grow/browser?forcelogin=true&url=https%3A%2F%2Ftest-grow.codemao.cn%2Fcourse-detail%3Fshowclose%3Dtrue%26skuNumber%3D210917140001",
+                "centerLabel": [
+                    "0课时",
+                    "真人直播互动"
+                ],
+                "footerLabel": [
+                    "0.02 元/课时"
+                ]
+            },
+            {
+                "title": "定制课赠送礼品",
+                "entryThumbnail": "https://dev-cdn-common.codemao.cn/dev/257/1626504193053_大战怪兽.jpg",
+                "courseNum": 0,
+                "originalPrice": 10.00,
+                "price": 1.00,
+                "singleCoursesPrice": "1.00 元/课时",
+                "cornerMarker": "定制课赠送礼品003",
+                "giftFlag": "0",
+                "learnWay": "真人直播互动",
+                "skuNumber": "216682110001",
+                "spuNumber": "G216682110",
+                "categoryNumber": "9",
+                "courseForm": "DZKTYK",
+                "jumpUrl": "codemao://grow/browser?forcelogin=true&url=https%3A%2F%2Ftest-grow.codemao.cn%2Fcourse-detail%3Fshowclose%3Dtrue%26skuNumber%3D216682110001",
+                "centerLabel": [
+                    "0课时",
+                    "真人直播互动"
+                ],
+                "footerLabel": [
+                    "1.00 元/课时"
+                ]
+            }
+        ]
+    }
+]
